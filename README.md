@@ -1,4 +1,4 @@
-# Projeto Lading-Page 
+# Projeto Landing Page 
 
 ## Cafeteria Code café 
 
