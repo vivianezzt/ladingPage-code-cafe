@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&family=Roboto:wght@100;300;400;500&family=Source+Serif+4:opsz,wght@8..60,200;8..60,300;8..60,400;8..60,500;8..60,600;8..60,700;8..60,800&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -5,7 +7,7 @@
     outline: none;
     font-weight: 300;
     box-sizing: border-box;   
-    font-family: 'Source Serif Pro', serif;    
+    font-family: 'Source Serif', serif;    
 }
 
 a{
