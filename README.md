@@ -1,8 +1,10 @@
-# Projeto Lading-Page 
+# Projeto Landing Page 
 
 ## Cafeteria Code café 
 
 <img src="https://raw.githubusercontent.com/vivianezzt/ladingPage-code-cafe/main/src/img/code-cafe.png">
+
+### Confira: <a href="https://viviane-lading-page-code-cafe.vercel.app/">Café Code</a>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
 
