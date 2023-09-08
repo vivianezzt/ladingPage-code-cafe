@@ -46,6 +46,7 @@ body {
 .secao-com-texto {
     padding: 153px;
     text-align: center;
+    clear: both;
 }
 
 .secao-com-texto img{
@@ -67,4 +68,30 @@ body {
 .secao-com-texto.onde-estamos p {
     font-size: 28px;
     width: 450px;
+}
+
+.ladrilho div {
+    float: left;
+}
+.ladrilho .grande {
+    background: url(../img/4.jpg) center center no-repeat;
+    height: 600px;
+    width: 50%;
+}
+
+.ladrilho .pequeno {
+    background: url(../img/3.jpg) center center no-repeat;
+    height: 300px;
+    width: 25%;
+}
+.ladrilho .pequeno.grao {
+    background: url(../img/2.jpg) center center no-repeat;
+    height: 300px;
+    width: 25%;
+}
+
+.ladrilho .medio {
+    background: url(../img/1.jpg) center center no-repeat;
+    height: 300px;
+    width: 50%;
 }
